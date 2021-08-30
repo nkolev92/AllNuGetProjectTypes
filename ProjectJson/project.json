@@ -5,7 +5,8 @@
     "frameworks": {
       "net472": {}
     },
-    "runtimes": {
-      "win-anycpu": {},
-      "win": {}
+  "runtimes": {
+    "win-anycpu": {},
+    "win": {}
+  }
 }
