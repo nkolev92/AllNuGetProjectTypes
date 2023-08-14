@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "AllProjectTypes.sln",
+    "projects": [
+      "PackagesConfig\\PackagesConfig.csproj"
+    ]
+  }
+}
